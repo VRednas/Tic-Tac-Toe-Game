@@ -1,0 +1,54 @@
+:root {
+   --main-bg-color: #525252;
+   --secondary-bg-color: #464646;
+   --main-color: #eeeeee;
+   --secondary-color: #cfcfcf;
+   --main-game-color: #375ca1;
+   --secondary-game-color: #1e336e;
+}
+
+body {
+   background-color: var(--secondary-bg-color);
+}
+
+footer {
+   padding: 5%;
+   font-size: 18px;
+   color: var(--main-color);
+   text-align: center;
+}
+
+a {
+   color: var(--main-game-color)
+}
+
+.game {
+   width: 500px;
+   height: 500px;
+   margin: 0 auto;
+   background-color: var(--main-game-color);
+   color: var(--main-color);
+   border: 6px solid var(--secondary-game-color);
+   border-radius: 6px;
+   display: grid;
+   grid-template: repeat(3, 1fr) / repeat(3,1fr);
+}
+
+.game > div {
+   border: 6px solid var(--secondary-game-color);
+   border-radius: 1px;
+   font-family: Helvetica;
+   font-weight: bold;
+   font-size: 4em;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+h1 {
+   padding: 1em;
+   font-family: 'Press Start 2P', cursive;
+   font-size: 48px;
+   color: var(--main-color);
+   text-align: center;
+}

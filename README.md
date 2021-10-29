@@ -22,6 +22,14 @@ Use your mouse to mark downs the square you want. Remember to respect the player
 
 If you want to restart the game, write the command "tic-tac-toe.restart()" on the console (with no commas) end press "enter".
 
+## Future Features To Be Included
+
+ - Put a "GAME OVER" text printed on the screen when the game is over;
+ - Make a functional "RESTART" buttom;
+ - Make an input to receive the Players names;
+ - Put the name of the winner in the screen when there is a winner;
+ - Add aesthetic improvements (it must be a continuous improvement).
+
 ## Especial Thanks and Considerations
 
 This game was developed with love and sweat, but wasn´t done alone, off course. I leave my thanks here:

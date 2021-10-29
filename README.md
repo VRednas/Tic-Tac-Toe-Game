@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# <img src="https://c.tenor.com/_wnPEQVj2E0AAAAi/red-love-hearts-i-love-you-hearts.gif" alt="tic-tac-toe gif" width="30"> Tic-Tac-Toe
  
  ## Objective
 
@@ -33,5 +33,10 @@ This game was developed with love and sweat, but wasn´t done alone, off course.
  - You, for the time spent on my game. 
 
 As I said, this project is based in (forked) the tic-tac-toe game created by <a href="https://www.youtube.com/codigofontetv">Código Fonte TV</a>, an Youtube channel, in their videos. And as they did, I will keep it public, becouse that is how it has to be done.
+
+Remember, as a game made by a single person, it may have some bugs. Be free to open an issue and help me!
+<br>
+<br>
+<img src="https://c.tenor.com/XYeQuXBY5vcAAAAC/okay-referee.gif" alt="A bugged game character making a thumb up" width="300">
 
 ### Play it as much as you want!
